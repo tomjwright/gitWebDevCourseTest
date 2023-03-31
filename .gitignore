@@ -1,0 +1,2 @@
+#ignore secrets to keep sensitive data safe
+secrets.txt
